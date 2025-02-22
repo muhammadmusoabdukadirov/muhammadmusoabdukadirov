@@ -1,30 +1,29 @@
-# MuhammadMusa Abduqadirov 👋
+Men haqimda | About Me
 
-Full-stack developer | JavaScript enthusiast | Open-source contributor
+🚀 Qiziqishlarim | My Interests
 
-I love building web applications and contributing to open-source projects. Let's connect!
+🖥 Dasturlash va IT arxitektura – Backend va tizimlar dizayni bilan shug‘ullanish yoqadi.
+
+🎮 O‘yin yaratish | Game Development – Unreal Engine orqali o‘yin ishlab chiqish va kreativ dunyo yaratish orzularimdan biri.
+
+🎥 Video yaratish va kontent | Video Creation & Content – Qiziqarli va foydali videolar tayyorlashni yoqtiraman.
+
+📚 Dasturlash darslari | Programming Lessons – PostgreSQL va boshqa texnologiyalar bo‘yicha bilimlarimni boshqalar bilan ulashish menga zavq beradi.
+
+🏃‍♂ Sport va yugurish | Sports & Running – Haftasiga uch marta yuguraman, sog‘lom turmush tarzini yoqtiraman.
+
+📱 Instagram biznes sahifasi | Instagram Business Page – IT va dasturlash haqida foydali kontent yaratib, tajribam bilan bo‘lishaman.
 
 
-<a href="https://github.com/muhammadmusoabduqadirov">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmusoabduqadirov&theme=dark" alt="MuhammadMusa Abduqadirov GitHub Streak" />
-</a>
+💡 Mening shiorim | My Motto:
+"Bilim – eng katta boylik, tajriba – eng katta kuch!"
 
-### Projects:
+🛠 Yaratgan loyihalarim | My Projects:
 
-•   [Project 1](https://github.com/muhammadmusoabduqadirov/project1) - Description of project 1
-•   [Project 2](https://github.com/muhammadmusoabduqadirov/project2) - Description of project 2
+🎮 GadlbooL – O‘zim ishlab chiqayotgan o‘yin loyiham.
+
+🌐 MuhammadMuso GitHub – Kodlarim va loyihalarimni bu yerda topishingiz mumkin.
 
 
-### Connect with me:
+📌 Meni kuzating | Follow Me:
 
-<a href="https://www.linkedin.com/in/muhammadmusoabduqadirov">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://twitter.com/username">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-
-<a href="https://www.instagram.com/username">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
