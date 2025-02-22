@@ -1,15 +1,10 @@
 ## • Hi, I'm MuhammadMuso Abdukadirov  
 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" height="150" alt="Welcome GIF">
-
-
-
-
-
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" height="120" alt="Welcome GIF">
 
 
 <a href="https://www.instagram.com/muhammadmuso_7227/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" alt="Instagram">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20px" alt="Instagram">
 </a>
 
 ## • Join me on Instagram for more!
@@ -27,7 +22,7 @@
 
 <br />
 
-📍 Current location: Fergana, Uzbekistan
-🤝 Ask me about anything, I am happy to help
-📫 How to reach me: [@MuhammadMuso](https://www.instagram.com/muhammadmuso_7227/)
+##📍 Current location: Fergana, Uzbekistan
+##🤝 Ask me about anything, I am happy to help
+##📫 How to reach me: [MuhammadMuso](https://www.instagram.com/muhammadmuso_7227/)
 
