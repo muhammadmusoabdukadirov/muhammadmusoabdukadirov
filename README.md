@@ -1,16 +1,9 @@
 # MuhammadMusa Abduqadirov 👋
 
-# MuhammadMusa Abduqadirov 👋
-
 Full-stack developer | JavaScript enthusiast | Open-source contributor
 
 I love building web applications and contributing to open-source projects. Let's connect!
 
-### GitHub Stats:
-
-<a href="https://github.com/muhammadmusoabduqadirov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmusoabduqadirov&show_icons=true&theme=dark" alt="MuhammadMusa Abduqadirov GitHub Stats" />
-</a>
 
 <a href="https://github.com/muhammadmusoabduqadirov">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmusoabduqadirov&theme=dark" alt="MuhammadMusa Abduqadirov GitHub Streak" />
