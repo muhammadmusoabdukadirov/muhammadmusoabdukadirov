@@ -27,3 +27,10 @@ Men haqimda | About Me
 
 📌 Meni kuzating | Follow Me:
 
+
+### Meni Instagram sahifam 📸  
+
+📌 Instagram:  
+<a href="https://www.instagram.com/muhammadmuso_7227/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20px" alt="Instagram">
+</a>
