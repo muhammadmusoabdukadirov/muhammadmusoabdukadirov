@@ -4,5 +4,5 @@
 
 
 <a href="https://www.instagram.com/muhammadmuso_7227/">
-  <img src="https://en.wikipedia.org/wiki/Instagram." width="50">
+  <img src="https://en.wikipedia.org/wiki/Instagram" width="100">
 </a>
