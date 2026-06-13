@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,sqlalchemy,docker,git,github,linux,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,docker,git,github,linux,vscode,sqlalchemy" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 |-----------|---------------|
 | [📚 Markaz Platform](https://github.com/muhammadmusoabdukadirov/Markaz-uchun-loyiha) | Educational center management system |
 | [🪴 Anor Gilam](https://github.com/muhammadmusoabdukadirov/Anor-Gilam-Sayiti-2) | E-commerce platform for carpet cleaning services |
-| 🌾 Farm Platform *(in progress)* | 100-hectare smart farm management system |
+| Hamma Malumot Omborhonada |
 
 ---
 
